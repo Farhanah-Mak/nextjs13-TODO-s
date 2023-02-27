@@ -1,0 +1,10 @@
+.container{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+.todotitle, .iscompleted{
+    text-align: center;
+}
